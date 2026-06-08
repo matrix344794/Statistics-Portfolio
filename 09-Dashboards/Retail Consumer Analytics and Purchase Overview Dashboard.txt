@@ -1,0 +1,49 @@
+Overview
+
+This dashboard provides an analysis of retail customer purchasing behavior across regions, customer types, payment methods, product categories, and satisfaction levels. The project aims to identify the factors influencing purchase decisions and provide insights that can support retail business strategies.
+
+Objectives:
+1. Analyze customer purchase behavior.
+2. Monitor purchase conversion rates.
+3. Identify top-performing product categories.
+4. Evaluate payment method preferences.
+5. Understand the relationship between customer satisfaction and purchasing decisions.
+Tools Used:
+- Microsoft Excel
+- Pivot Tables
+- Slicers
+- Interactive Dashboard Design
+- Data Visualization
+
+Key Metrics:
+- Total Transactions
+- Total Purchases
+- Purchase Conversion Rate
+- Product Category Performance
+- Customer Satisfaction Levels
+- Payment Method Usage
+
+Key Insights
+Purchase Conversion
+- Approximately 82% of transactions resulted in purchases, indicating a strong overall conversion rate.
+Product Performance
+- The Dairy category recorded the highest purchase rates across multiple regions.
+Payment Behavior
+- Customers preferred card and cash payments for in-store transactions, while online purchases showed different payment preferences.
+Customer Satisfaction
+- Moderate to high satisfaction levels were strongly associated with successful purchase decisions.
+
+Business Recommendations:
+A. Increase inventory and promotional focus on high-performing product categories.
+B. Strengthen customer satisfaction initiatives to improve conversion rates.
+C. Optimize payment channels based on customer preferences.
+D. Develop region-specific marketing strategies based on purchasing behavior.
+
+Skills Demonstrated:
+- Retail Analytics
+- Customer Segmentation
+- KPI Reporting
+- Interactive Dashboard Development
+- Business Intelligence
+- Data Storytelling
+- Strategic Recommendations
