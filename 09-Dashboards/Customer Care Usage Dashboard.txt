@@ -1,0 +1,47 @@
+📊 Customer Care Usage Dashboard
+Overview
+
+This project analyzes customer support interactions to identify the key factors driving customer care usage. The dashboard explores relationships between dropped calls, customer tenure, revenue segments, and customer support activity to generate actionable recommendations for improving customer experience and reducing support burden.
+
+Objectives
+Understand customer support utilization patterns.
+Identify factors influencing customer care interactions.
+Analyze the impact of dropped calls on customer behavior.
+Evaluate customer support usage across revenue and tenure segments.
+Provide recommendations to improve customer satisfaction and retention.
+Tools Used
+1. Microsoft Excel
+2. Pivot Tables
+3. Data Visualization
+4. Dashboard Design
+5. Business Analytics
+
+Key Metrics
+1. Total Customers: 49,658
+2. Average Customer Care Calls per Customer
+3. Percentage of High Customer Care Usage
+4. Percentage of Customers with No Customer Care Calls
+
+Key Insights
+A. Customer Support Usage and Dropped Calls
+B. Customers experiencing higher frequencies of dropped calls are significantly more likely to contact customer care.
+C. Revenue Impact
+D. High-revenue customers show greater engagement with customer support services compared to lower-revenue customers.
+
+Customer Tenure Analysis
+- New customers demonstrate a higher tendency to contact customer support compared to regular and long-term customers.
+
+Business Recommendations:
+A. Improve network reliability to reduce dropped calls.
+B. Enhance onboarding programs for new customers.
+C. Implement proactive support strategies for high-value customers.
+D. Monitor customer experience metrics to reduce service-related concerns.
+
+Skills Demonstrated:
+A. Business Intelligence Reporting
+B. KPI Development
+C. Customer Analytics
+E. Data Visualization
+F. Dashboard Storytelling
+G. Insight Generation
+H. Business Recommendations
